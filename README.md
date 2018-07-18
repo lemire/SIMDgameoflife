@@ -34,5 +34,6 @@ The size of the grid is a parameter.
 
 ```
 make
-./gameoflife 100
+./gameoflife  10000
+./gameoflife  10000 --nosimd
 ```
